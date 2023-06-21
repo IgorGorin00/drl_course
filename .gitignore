@@ -1,0 +1,17 @@
+
+# Ignore IPython notebook checkpoints
+**/.ipynb_checkpoints/
+
+# Ignore Python cache files
+**/__pycache__/
+
+# Ignore temporary try.py files
+**/try.py
+
+# Ignore nohup.out files
+**/nohup.out
+
+practice_1/gym-maze/
+
+# Ignore specific files
+*.png
