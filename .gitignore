@@ -7,10 +7,11 @@
 # Ignore nohup.out files
 **/nohup.out
 
-practice_1/gym-maze/
+practice_*
 
 # Ignore environment
 course_env/
 
 # Ignore specific files
 *.png
+

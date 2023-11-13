@@ -3,3 +3,5 @@ gym[toy_text]
 numpy==1.26.1
 matplotlib==3.8.0
 seaborn==0.13.0
+box2d-py==2.3.8
+torch==2.1.0
